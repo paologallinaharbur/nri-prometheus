@@ -15,7 +15,7 @@ Find out more about Prometheus and New Relic in [this blog post](https://blog.ne
 
 ## Building
 
-Golang is required to build the integration. We recommend Golang 1.11 or higher. 
+Golang is required to build the integration. We recommend Golang 1.11 or higher.  
 
 This integration requires having a Kubernetes cluster available to deploy and run it. For development, we recommend using [Docker](https://docs.docker.com/install/), [Minikube](https://minikube.sigs.k8s.io/docs/start/), and [skaffold](https://skaffold.dev/docs/getting-started/#installing-skaffold).
 
